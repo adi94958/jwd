@@ -1,0 +1,13 @@
+.navbar {
+    background-color: rgb(237, 237, 237);
+}
+
+.card {
+    margin: 20px 0;
+    width: 40rem;
+}
+
+.btn-group button {
+    margin: 20px 0;
+    width: 200px;
+}
